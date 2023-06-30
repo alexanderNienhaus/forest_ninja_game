@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="1000" height="1000" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="11">
+ <tileset firstgid="1" name="Menu  col_Button" tilewidth="600" tileheight="200" tilecount="1" columns="1">
+  <image source="UI/Menu  col_Button.png" width="600" height="200"/>
+ </tileset>
+ <tileset firstgid="2" name="Quit  col_Button" tilewidth="600" tileheight="200" tilecount="1" columns="1">
+  <image source="UI/Quit  col_Button.png" width="600" height="200"/>
+ </tileset>
+ <tileset firstgid="3" name="Start  col_Button" tilewidth="600" tileheight="200" tilecount="1" columns="1">
+  <image source="UI/Start  col_Button.png" width="600" height="200"/>
+ </tileset>
+ <tileset firstgid="4" name="Continue  col_Button" tilewidth="600" tileheight="200" tilecount="1" columns="1">
+  <image source="UI/Continue  col_Button.png" width="600" height="200"/>
+ </tileset>
+ <tileset firstgid="5" name="Load  col_Button" tilewidth="600" tileheight="200" tilecount="1" columns="1">
+  <image source="UI/Load  col_Button.png" width="600" height="200"/>
+ </tileset>
+ <objectgroup id="2" name="Objectlayer">
+  <object id="6" name="Load1" type="MenuElement" gid="5" x="48" y="642" width="600" height="200"/>
+  <object id="7" name="Load2" type="MenuElement" gid="5" x="898" y="682" width="600" height="200"/>
+  <object id="8" name="Load3" type="MenuElement" gid="5" x="1564" y="618" width="600" height="200"/>
+  <object id="10" name="Quit" type="MenuElement" gid="2" x="912" y="1120" width="600" height="200"/>
+ </objectgroup>
+</map>
