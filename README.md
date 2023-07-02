@@ -6,7 +6,7 @@
 <h4 align="center">A platformer with combat</h4>
 
 <p align="center">
-  <img src="./preview/showcase.gif" width="369">
+  <img src="./preview/showcase.gif" width="1024">
 </p>
 
 ## Inroduction
