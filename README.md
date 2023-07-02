@@ -43,7 +43,7 @@ and a charged attack. There are three different levels, each ending with a speci
 The player will encounter different enemies like the beetle, the ranged maggots which shoots acid at the player, and the very dangerous mantis.
 
 <p align="center">
-  <img src="./preview/beetle.png" width="369">
+  <img src="./preview/beetles.png" width="369">
 </p>
 <p align="center">
   <img src="./preview/maggot.png" width="369">
