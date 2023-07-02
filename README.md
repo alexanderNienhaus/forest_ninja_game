@@ -5,6 +5,10 @@
 
 <h4 align="center">A platformer with combat</h4>
 
+<p align="center">
+  <img src="./preview/showcase.gif" width="369">
+</p>
+
 ## Inroduction
 
 This game was made during a project in the first year of univerity. It is based on the GXP engine, provided by Saxion Univerity of Applied Sciences.
